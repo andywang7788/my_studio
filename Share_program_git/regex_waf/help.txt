@@ -1,0 +1,8 @@
+
+python .py 2 0
+1:
+in test string file, put your regexp string.
+
+2 parameter 2 is layer of brackets
+
+3 parameter 3 is do or not do
